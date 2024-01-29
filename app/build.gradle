@@ -9,8 +9,8 @@ android {
 //        release {
 //            keyAlias 'gu'
 //            keyPassword 'gu123456'
-//            storeFile file('../smart_city.jks')
-//            storePassword 'smart_city'
+//            storeFile file('../.jks')
+//            storePassword 'gu123456'
 //        }
 //
 //    }
